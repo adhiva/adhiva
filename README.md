@@ -68,10 +68,11 @@ func main() {
 
 <!-- Stats -->
 # Statistic 
-
-![](https://komarev.com/ghpvc/?username=adhiva&color=000000)  
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adhiva&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adhiva&theme=dark)](https://git.io/streak-stats)  
+![](https://komarev.com/ghpvc/?username=adhiva&color=000000) 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adhiva&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=adhiva&theme=dark">
+</div>
 
 <!-- Contact me -->
 <div align="center">
