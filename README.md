@@ -1,7 +1,7 @@
 # Hi, adhiva here ! <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
 
 
-```go
+<!-- ```go
 package aboutme
 
 type Profile struct {
@@ -49,7 +49,7 @@ func main() {
 
 }
 
-```
+``` -->
 
 
 <!-- Tools and Technologies -->
